@@ -1,0 +1,12 @@
+{
+  "body": {
+    "messageId": 3,
+    "deviceId": "Raspberry Pi Web Client",
+    "temperature": 31.729063768068904,
+    "humidity": 61.02572455014607
+  },
+  "enqueuedTime": "Tue Dec 05 2023 16:51:03 GMT+0100 (Central European Standard Time)",
+  "properties": {
+    "temperatureAlert": "true"
+  }
+}
