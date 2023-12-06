@@ -82,19 +82,4 @@ Following to the "principle of least privilege", to restrict a user's administra
 
 Additionally, I integrate Microsoft Defender for Cloud. Continuous Monitoring, identifying and responding to potential threats in real-time. Security Recommendations offering best practices for an enhanced security posture. Vulnerability Management, identifying and remediating vulnerabilities. Advanced Threat Protection using behavioral analytics for early risk mitigation. Integration with Azure Security Center to unify security management for enhanced visibility.
 
-![Go to top](https://github.com/GoranMarjanovic90/Temperature-Humidity-Real-Time-Data#temperature--humidity-real-time-data-)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[(Go to top)](https://github.com/GoranMarjanovic90/Temperature-Humidity-Real-Time-Data#temperature--humidity-real-time-data-)
